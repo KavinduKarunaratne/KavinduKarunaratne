@@ -1,5 +1,5 @@
 
-## Hi, I'm Kaindu
+## Hi, I'm Kavindu
 I'm a Software Engineering student at Asia Pacific Institute of Information Technology. I enjoy coding and like to make stuff.
 
 ## 🌐 Socials:
