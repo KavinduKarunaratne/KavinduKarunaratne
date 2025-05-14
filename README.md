@@ -1,4 +1,7 @@
 
+## Hi, I'm Kaindu
+I'm a Software Engineering student at Asia Pacific Institute of Information Technology. I enjoy coding and like to make stuff.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-karunaratne/) 
 
